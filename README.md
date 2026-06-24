@@ -34,3 +34,12 @@ This is a Python-based console application developed using Object-Oriented Progr
 
 ```bash
 python main.py
+## Project Preview
+
+### Main Menu
+
+![Main Menu](screenshot1.png)
+
+### Student Report Card
+
+![Student Report](screenshot2.png)
